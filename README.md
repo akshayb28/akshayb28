@@ -3,8 +3,8 @@ Akshay here,Project Manager @QuillAudits
 
 We at QuillAudits have -
 
-- 700+ Projects Audited in Defi, NFT and DAO
-- 700K + Lines of codes audited
+- 850+ Projects Audited in Defi, NFT and DAO
+- 800K + Lines of codes audited
 - 1000's of high and mid level Vulnerable issues detected for the projects audited
 - Billion $ of Investors funds protected subsequently
 - Trusted partner for Launchpad and venture funds such as Woodstock, Unicrypt, Pathfund, Superlauncher, dxsale
